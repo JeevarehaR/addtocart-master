@@ -1,0 +1,22 @@
+
+.shop-nav-container{
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cartbutton{
+  margin: 10px;
+}
+.header-container{
+background-color: rgba(33,37,41) ;
+}
+.badge{
+  position: absolute;
+  top: 0.5rem; 
+  right: 0.5rem
+}
+.link{
+  padding-top: 3px;
+}
+.Cartright{
+  align-items: flex-end;
+}
